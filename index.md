@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Välkommen till den nya sidan på GitHub
 ---
 
